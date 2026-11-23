@@ -5,6 +5,7 @@
 I'm a digital marketer with 3+ years of agency experience. I plan campaigns for brands, and I build the tools behind them: websites, API integrations and automated alert systems in Python, with AI in every step of the workflow.
 
 🌐 **Portfolio:** https://pumarathaworn01.github.io
+🧭 **Business analysis case studies:** https://pumarathaworn01.github.io/ba
 📧 **Email:** Pumarathaworn01@gmail.com
 
 ---
