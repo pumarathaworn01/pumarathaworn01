@@ -15,10 +15,12 @@ I'm a digital marketer with 3+ years of agency experience. I plan campaigns for 
 |---|---|---|
 | **Stock Signal Alert System** | Pulls market data through an API, analyses trading signals, sends alerts to Telegram automatically | Python · REST API · Telegram Bot API |
 | **[Tomorn Trading Bot](https://github.com/pumarathaworn01/tomorn-trading-bot)** | BTC/USDT bot with 5 strategies, Telegram alerts, paper trading, fee-aware risk control and a live dashboard | Python · Binance API · Telegram Bot API |
-| **BUNJONGKID Website** | Responsive agency website with a 64-project portfolio and Behance galleries | Python · AI-assisted development |
+| **[BUNJONGKID Website](https://peaceful-light-786095.framer.app)** | Agency website built in Framer with a CMS for 68 client projects and an Insights blog | Framer · CMS · AI-assisted |
 
 ### 📣 Brands I've worked on
-Zoetis · Chaixi Plus · MUJI · Gingganbai · CHO · UCHI
+**Major brands:** Zoetis · Chaixi Plus · MUJI · Gingganbai
+
+**25 client projects at BUNJONGKID (2025–2026):** CHO · House of Ocha · Le Liege · Komori · Xin Chao · Queens · Torimaru · The Urban Wok · Jarista · My Wine · and more → [see all on my portfolio](https://pumarathaworn01.github.io/#clients)
 
 ### 🧠 Skills
 - **Digital marketing:** strategy, market & competitor research, campaign planning, reporting
